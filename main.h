@@ -10,5 +10,6 @@ class main {
 
 };
 
+bool isEven(int num);
 
 #endif //CPPPLAYGROUND_MAIN_H
